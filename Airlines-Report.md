@@ -1,7 +1,6 @@
 
 # Airlines
 
-### Dashboard Link : [Airline Passenger Satisfaction.pdf](https://github.com/KrystalPhm/Test/files/14381320/Airline.Passenger.Satisfaction.pdf)
 
 ## Problem Statement
 
@@ -10,7 +9,7 @@ This dashboard helps the airlines understand their customers better. It helps th
 Since, number of neutral/dissatisfied customers (almost 57 %) are more than satisfied customers (around 43 %), thus in all they must work on improving their services. 
 
  
- # Report Snapshot (Power BI DESKTOP)
+ # Dashboard Snapshot (Power BI DESKTOP)
  
 ![Airline Passenger Satisfaction](https://github.com/KrystalPhm/Test/assets/160628984/ac2ac4fd-29c6-4c71-9989-4c6c505f4d9a)
 
@@ -18,4 +17,4 @@ Since, number of neutral/dissatisfied customers (almost 57 %) are more than sati
 
 # Airlines-Report
 
-### Dashboard Link : [Airline Passenger Satisfaction.pdf](https://github.com/KrystalPhm/Test/files/14381198/Airline.Passenger.Satisfaction.pdf)
+### Report Link : [Airline Passenger Satisfaction.pdf](https://github.com/KrystalPhm/Test/files/14381198/Airline.Passenger.Satisfaction.pdf)
